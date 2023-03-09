@@ -91,7 +91,7 @@ body{
      text-align: center;
      justify-content: space-around;
      padding: 0 0.8rem;
-     transform:rotateY(-205deg )rotateX(20deg);
+     transform:rotateY(-210deg )rotateX(20deg);
      position: absolute;
      right: -330px;
 }
